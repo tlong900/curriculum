@@ -18,7 +18,7 @@ TODO
 
 ## Modules
 1. Exploratory Data Analytics (in Python)
-    - (Full Curriculum)[https://www.github.com/smubia/curriculum/blob/master/modules/exploratory-data-analytics-py.md]
+    - (Full Curriculum)[modules/exploratory-data-analytics-py.md]
     - Resources and project files
 
 ## Contributing
