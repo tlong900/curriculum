@@ -1,4 +1,6 @@
-# NumPy Knowledge Checklist
+# Numpy Knowledge Checklist
+
+## Overview of Numpy
 
 ## Basics of the library
 - How to import the NumPy Library
@@ -14,4 +16,3 @@
 
 - Broadcasting
     - [AnatomyOfMatplotlib](http://nbviewer.jupyter.org/github/WeatherGod/AnatomyOfMatplotlib/blob/master/AnatomyOfMatplotlib-Part0-Intro2NumPy.ipynb#Broadcasting)
-    
