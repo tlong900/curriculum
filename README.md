@@ -13,13 +13,28 @@ student collaboration. At the same time, we strive to ignite passion for Analyti
 leverage opportunities for career development.
 
 ## Learning Structure
-TODO
+### What is a Checklist?
+A Checklist is a list of resources that readers are meant to read through and understand completely.
+A Checklist has its sections split according to importance.
+Labels used:
+- IMPORTANT
+    - Content labelled as IMPORTANT must be completely understood by the reader to proceed on with the curriculum.
+- EXTRA
+    - Content labelled as EXTRA should be read through at the reader's own leisure, as it will serve to reinforce learnings.
+- OPTIONAL
+    - Content labelled as OPTIONAL is content that would not affect the reader's comprehension of further material should he/she wish to skip them.
 
+### What is a Notebook?
+A Notebook is a Jupyter notebook that is viewed in the Jupyter nbviewer, to walk readers through code usage. 
 
 ## Modules
 1. Exploratory Data Analytics (in Python)
-    - [Full Curriculum](modules/exploratory-data-analytics-py.md)
-    - Resources and project files
+    - [Analytics Basics Checklist](#)
+    - [Technical Basics Checklist](#)
+    - [BI & Consulting Checklist](#)
+    - [In Depth into Python Libraries Checklist](#)
+    - [Data Cleaning Checklist](#)
+    - [Project](#)
 
 ## Contributing
 TODO
